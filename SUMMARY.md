@@ -6,7 +6,7 @@
     * [會員類型](member/memberType.md)
     * [一般會員](member/ApplyGeneral.md)
         * [進階會員](member/ApplyAdvance.md)
-        * [專案用戶](member/ApplyCoOperate.md)
+        	* [專案用戶](member/ApplyCoOperate.md)
 * [技術介接](api/api.md)
     * [URI命名原則](api/uri.md)
     * [資料服務版本說明](api/version.md)
