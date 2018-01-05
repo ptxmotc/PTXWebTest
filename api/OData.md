@@ -8,8 +8,7 @@
      範例：火車車站基本資料http://ptx.transportdata.tw/MOTC/Rail/TRA/Station?$format=xml
 
 
-2.  進階查詢
-
+1.  進階查詢
 
      {dataId}：資料代號
 
