@@ -8,18 +8,19 @@
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/hDTEJAxW0Rs" frameborder="0" gesture="media" allowfullscreen></iframe>
 
+
 ### 透過EXCEL吃OAS API 結構目錄
 
 [影片教學請點我](https://goo.gl/yYoYmm)
 
-<iframe width="854" height="480" src="https://goo.gl/yYoYmm" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/watch?v=a-a6Y4jFMnc" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 
 ### 從EXCEL拉取PTX API資料
 
 [影片教學請點我](https://goo.gl/J6EV52)
 
-<iframe width="854" height="480" src="https://goo.gl/J6EV52" frameborder="0" gesture="media" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/watch?v=8ypMktRRL88&feature=youtu.be" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 
 
