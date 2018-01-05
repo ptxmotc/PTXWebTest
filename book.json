@@ -30,7 +30,7 @@
     "pluginsConfig": {
         "localized-footer": {
             "hline": true,           
-            "filename": "./FOOTER.md" 
+            "filename": "./footer.md" 
         }
     }
 }
