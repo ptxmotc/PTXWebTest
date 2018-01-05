@@ -4,7 +4,7 @@
 
 ### Swagger使用說明：[影片教學請點我](https://youtu.be/hDTEJAxW0Rs)
 
-### 購過EXCEL吃OAS API 結構目錄：[影片教學請點我](https://goo.gl/yYoYmm)
+### 透過EXCEL吃OAS API 結構目錄：[影片教學請點我](https://goo.gl/yYoYmm)
 
 ### 從EXCEL拉取PTX API資料：[影片教學請點我](https://goo.gl/J6EV52)
 
