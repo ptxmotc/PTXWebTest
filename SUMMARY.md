@@ -17,7 +17,7 @@
  + [API資料使用注意事項](FAQ/Announcement.md)
       * [資料服務版本說明](FAQ/Version.md)
       * [資料供應現況](FAQ/SupplyStatus.md)
-      * [航空API資料使用注意事項]FAQ/Aviation.md)
+      * [航空API資料使用注意事項](FAQ/Aviation.md)
       * [公車API資料使用注意事項](FAQ/Bus.md)
       * [雙鐵API資料使用注意事項](FAQ/Rail.md)
       * [靜態異動檔API資料使用注意事項](FAQ/Variation.md)
