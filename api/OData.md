@@ -20,9 +20,7 @@
 
      {orderby}：排序欄位
 
-     範例：火車車站基本資料
-
-     http://ptx.transportdata.tw/MOTC/v2/Rail/TRA/Station?$orderby=StationID&$top=10&$skip=100&$format=JSON 
+     範例：火車車站基本資料http://ptx.transportdata.tw/MOTC/v2/Rail/TRA/Station?$orderby=StationID&$top=10&$skip=100&$format=JSON 
 
      備註：其中StationID為資料欄位名稱
      
