@@ -1,11 +1,11 @@
 # Summary
  
  + [快速入門](README.md)
- + [API會員申請](Member/AccountApply.md)
-      * [會員分級](Member/MemberType.md)
-      * [會員申請流程](Member/RegisterSOP.md)
-      * [會員註冊申請](Member/GoRegister.md)
-      * [常見問題](Member/MemberFAQ.md)       
+ + [API會員申請](member/AccountApply.md)
+      * [會員分級](member/MemberType.md)
+      * [會員申請流程](member/RegisterSOP.md)
+      * [會員註冊申請](member/GoRegister.md)
+      * [常見問題](member/MemberFAQ.md)       
  + [API使用](API/API.md)
       * [API授權驗證](API/HMac.md)
       * [線上教學](API/Demo.md)
