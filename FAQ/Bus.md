@@ -47,8 +47,7 @@
      +	實務上，有些路線中間會存在分叉後又合併之狀況(如307經西藏路、307經莒光路)，所以會存在多條附屬路線的情況，此情況會導致加值業者在APP端或網頁前端不易顯示路線分支狀況，故部分縣市(如台北市及新北市)為求簡易的顯示路線站序，會定義顯示用路線站序(DisplayStopOfRoute)資料[即台北市與新北市的Stop資料]，嘗試以線性(Leanerly)方式來顯示該路線所有的站序，並輔以預估到站(N1)資料疊合，讓民眾於一個頁面就清楚明瞭該路線(如:307路線)所有車輛(同時含307經西藏路、307經莒光路)的預估到站資料。
      
      ![路線站序與顯示越路線站序差異圖](https://gist.githubusercontent.com/ptxmotc/82c644bb8c8bae454e551ccc544c31dd/raw/ede12a45754f79427691add47683c9df127ceacf/%25E9%25A1%25AF%25E7%25A4%25BA%25E7%2594%25A8%25E8%25B7%25AF%25E7%25B7%259A%25E7%25AB%2599%25E5%25BA%258F.jpg)
-              
-          
+                        
      +	當某特定路線下不存在任何其他附屬路線時，其路線站序(StopOfRoute)資料內容會完全等同於顯示用路線站序(DisplayStopOfRoute)資料。
      
      +	以前顯示用路線站序(DisplayStopOfRoute)是併同在路線站序(StopOfRoute)資料中，並以KeyPattern欄位進行區分，但由於多數加值業者反應將此兩項資料加以區分以利使用，因此針對部分縣市(如台北市及新北市)新增提供顯示用路線站序(DisplayStopOfRoute)資料，並將原路線站序(StopOfRoute)中的KeyPattern欄位刪除及將相對應的資料搬移至顯示用路線站序(DisplayStopOfRoute)資料中。
