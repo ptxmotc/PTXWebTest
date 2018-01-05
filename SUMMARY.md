@@ -7,7 +7,7 @@
       * [會員註冊申請](member/GoRegister.md)
       * [常見問題](member/MemberFAQ.md)       
  + [API使用](api/API.md)
-      * [API授權驗證](apiI/HMac.md)
+      * [API授權驗證](api/HMac.md)
       * [線上教學](api/Demo.md)
       * [範例程式](api/Code.md)
       * [常見問題](api/FAQ.md)
