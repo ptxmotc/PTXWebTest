@@ -25,14 +25,14 @@
 
     +  HTTP Status Code 403：
 
-        ++	 HMAC signature cannot be verified, a valid date or x-date header is required for HMAC Authentication（x-date的間隔時間超過定義的clock skew秒數）    
+        -	 HMAC signature cannot be verified, a valid date or x-date header is required for HMAC Authentication（x-date的間隔時間超過定義的clock skew秒數）    
 
-        ++	 HMAC signature does not match（日期格式正確，但簽章演算法有問題）
+        -	 HMAC signature does not match（日期格式正確，但簽章演算法有問題）
     
     
     +  HTTP Status Code 401：
     
-        ++	 Unauthorized （未帶簽章，未經授權）
+        -	 Unauthorized （未帶簽章，未經授權）
     
   
 -  Ticket與HMAC機制平行運轉期間，使用HMAC機制(APP ID及APP Key)則不須再取得ticket。
