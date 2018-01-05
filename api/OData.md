@@ -1,6 +1,6 @@
 ## 【支援ODATA查詢語法】
 
-1.  基本查詢
+-  基本查詢
      http://ptx.transportdata.tw/MOTC/Rail/TRA/Station?$format={format}
 
      {format}為資料格式：json、xml、csv
@@ -8,7 +8,7 @@
      範例：火車車站基本資料http://ptx.transportdata.tw/MOTC/Rail/TRA/Station?$format=xml
 
 
-1.  進階查詢
+-  進階查詢
 
      {dataId}：資料代號
 
@@ -27,4 +27,4 @@
 
      備註：其中StationID為資料欄位名稱
      
-3.  ODATA服務開發實作： 請詳見[連結](http://ptx.transportdata.tw/ptx/Download/公共運輸整合資訊平台資料服務開發實作.pdf)。
+-  ODATA服務開發實作： 請詳見[連結](http://ptx.transportdata.tw/ptx/Download/公共運輸整合資訊平台資料服務開發實作.pdf)。
