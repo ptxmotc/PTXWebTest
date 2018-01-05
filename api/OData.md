@@ -1,4 +1,4 @@
-## 【ODATA使用說明】
+## 【支援ODATA查詢語法】
 
 1. 基本查詢
      http://ptx.transportdata.tw/MOTC/Rail/TRA/Station?$format={format}
