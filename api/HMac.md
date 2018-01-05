@@ -30,10 +30,9 @@
 
         -	 HMAC signature does not match（日期格式正確，但簽章演算法有問題）
 
-
-    +  HTTP Status Code 401：
+    +   HTTP Status Code 401：
     
-        -	 Unauthorized （未帶簽章，未經授權）
+        -	Unauthorized （未帶簽章，未經授權）
     
   
   
