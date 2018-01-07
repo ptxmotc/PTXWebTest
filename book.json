@@ -33,9 +33,7 @@
             "filename": "./footer.md" 
         },
         "fontsettings": {
-            "theme": 'white', // 'sepia', 'night' or 'white', 
-            "family": '"微軟正黑體", "Microsoft JhengHei"', // 'serif' or 'sans', 
-            "size": 3         // 1 - 4 
+            "theme": 'white', // 'sepia', 'night' or 'white'
         }
     }
 }
