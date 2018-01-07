@@ -33,7 +33,7 @@
             "filename": "./footer.md" 
         },        
         "fontsettings": {
-            "theme": "white"
+            "family": "Microsoft JhengHei"
         }
     }
 }
