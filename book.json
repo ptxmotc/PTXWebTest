@@ -19,7 +19,7 @@
         }
     },
     "plugins": [
-        "-lunr", "-search", "search-plus","-fontsettings",
+        "-lunr", "-search", "search-plus","-fontsettings","-highlight",
         "splitter",
         "localized-footer",
         "expandable-chapters-small",
