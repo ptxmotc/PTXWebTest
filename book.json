@@ -31,6 +31,6 @@
         "localized-footer": {
             "hline": true,           
             "filename": "./footer.md" 
-        }    }
+        }
     }
 }
