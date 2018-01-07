@@ -31,12 +31,6 @@
         "localized-footer": {
             "hline": true,           
             "filename": "./footer.md" 
-        },
-        "fontsettings": {
-            "theme": 'white', // 'sepia', 'night' or 'white', 
-            "family": 'Microsoft JhengHei', // 'serif' or 'sans', 
-            "size": 3         // 1 - 4 
-
-        }
+        }    }
     }
 }
