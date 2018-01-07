@@ -19,7 +19,7 @@
         }
     },
     "plugins": [
-        "-lunr", "-search", "search-plus",
+        "-lunr", "-search", "search-plus","-fontsettings",
         "splitter",
         "localized-footer",
         "expandable-chapters-small",
@@ -31,9 +31,6 @@
         "localized-footer": {
             "hline": true,           
             "filename": "./footer.md" 
-        },        
-        "fontsettings": {
-            "family": "微軟正黑體"
         }
     }
 }
