@@ -1,7 +1,7 @@
 # Summary
 
 * [快速入門](README.md)
-* [API會員申請]
+* API會員申請
   * [會員分級](member/MemberType.md)
   * [會員申請流程](member/RegisterSOP.md)
   * [會員註冊申請](member/GoRegister.md)
