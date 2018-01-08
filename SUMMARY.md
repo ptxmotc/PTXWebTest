@@ -5,12 +5,16 @@
   * [會員分級](member/MemberType.md)
   * [會員申請流程](member/RegisterSOP.md)
   * [會員註冊申請](member/GoRegister.md)
-  * [常見問題](member/MemberFAQ.md)       
+  * [常見問題](member/MemberFAQ.md)    
+
+   
+
 * [API使用](api/API.md)
   * [API授權驗證](api/HMac.md)
   * [線上教學](api/Demo.md)
   * [範例程式](api/Code.md)
   * [常見問題](api/FAQ.md)
+
 * [API特色](api/Feature.md)
   * [URI命名原則](api/URI.md)
   * [支援OData查詢語法](api/OData.md)    
