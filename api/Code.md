@@ -10,8 +10,6 @@
 
 - 如何使用HMAC 機制:影片教學[請點我](https://www.youtube.com/watch?v=m6mjfnvfeZE&feature=youtu.be)。
 
-- 使用程式(如:C#、Java、JavaScript等)取得資料時，請記得加入HTTP Header設定(Accept-Encoding: gzip, deflate)，可有效減傳輸量。
-
 - 使用程式（如：C#、Java、JavaScript 等）取得資料時，請記得加入 HTTP Header 設定 (Accept-Encoding: gzip, deflate)，可有效減傳輸量。
 
 ## 各種語言教學範例
