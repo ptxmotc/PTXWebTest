@@ -12,6 +12,8 @@
 
 - 使用程式（如：C#、Java、JavaScript 等）取得資料時，請記得加入 HTTP Header 設定 (Accept-Encoding: gzip, deflate)，可有效減傳輸量。
 
+### 詳看範例程式[請點我](https://github.com/ptxmotc/Sample-code/blob/master/README.md)
+
 ## 範例語言教學包含
 
 - ASP.NET
@@ -21,5 +23,5 @@
 - CSharp 與 .NET Standard 2.0 範例程式碼（會員txstudio提供）
 - PHP 範例程式碼（會員Benyi提供）
 
-### 詳看範例程式[請點我](https://github.com/ptxmotc/Sample-code/blob/master/README.md)
+
 
