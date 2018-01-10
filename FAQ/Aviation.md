@@ -29,9 +29,7 @@
 | 基隆市  |    約10秒    |
 | 桃園市  |    約30秒    |
 
-<head>
-<title>欄位寬高的設定</title>
-</head>
+
 <body>
 <table border="1">
 <tr><th width="100">縣市</th><th width="120">動態資料延遲時間</th></tr>
