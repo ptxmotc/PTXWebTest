@@ -30,7 +30,7 @@
 
 <body>
 <table border="1">
-<tr><th width="60"><center>會員類型</center></th><th width="150">一般會員</th><th width="150">進階會員</th><th width="150">專案用戶</th></tr>
+<tr><th width="80"><center>會員類型</center></th><th width="150">一般會員</th><th width="150">進階會員</th><th width="150">專案用戶</th></tr>
 <tr><td height="100"><center>適用對象</center></td><td>單一運具開發、單一區域範圍之開發者</td><td>跨運具開發、全臺灣範圍之開發者</td><td>申請資格建議須以能夠以一年內能產出具體成果且呼叫次數能夠確實達到相關上限為主，另本部保留取消會員相關資格機制之權利。</td></tr>
 <tr><td height="50"><center>每日API服務呼叫次數</center></td><td>上限20,000次</td><td>上限100,000次</td><td>上限400,000次</td></tr>
 <tr><td height="100"><center>會員權益</center></td><td>同上述會員權益說明</td><td>同上述會員權益說明</td><td> - 同上述會員權益說明 <br> - 回饋的意見優先處理<br> -  搶先服務體驗API資料服務<br> - 頻寬不夠時優先使用頻寬</td></tr>
