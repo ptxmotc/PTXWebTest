@@ -20,20 +20,3 @@
 -  本平臺服務係針對全台航空資訊為主，故以機場為角度(FIDSAirport)之即時航班資料**僅顯示國內機場**；而班機為角度(FIDSFlight)之即時航班資料**僅顯示國內機場的各班機出發(Departure)或抵達相關資訊(Arrival)**，如BR108班機由高雄飛往東京，則FIDSFlight即時航班資訊僅會顯示ScheduleDepartureTime、ActualDepartureTime及EstimatedDepartureTime，而BR108抵達相關資訊則無提供。
 
 
-
-|      |  動態資料延遲時間  |
-| :----------: | :-------: |
-|  公總  | 即時推播，約2~3秒 |
-| 台北市  |    約10秒    |
-| 新北市  |    約10秒    |
-| 基隆市  |    約10秒    |
-| 桃園市  |    約30秒    |
-
-
-<body>
-<table border="1">
-<tr><center><th width="50">縣市</th><th width="100">動態資料延遲時間</th></center></tr>
-<tr><center><td height="30">公總</td><td>即時推播，約2~3秒</td></center></tr>
-<tr><center><td height="30">台北市</td><td>約10秒</td></center></tr>
-</table>
-</body>
