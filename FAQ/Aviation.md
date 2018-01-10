@@ -32,8 +32,8 @@
 
 <body>
 <table border="1">
-<tr><th width="50">縣市</th><th width="70">動態資料延遲時間</th></tr>
-<tr><td height="50">公總</td><td>即時推播，約2~3秒</td>/tr>
-<tr><td height="50">台北市</td><td>約10秒</td></tr>
+<tr><th width="50">縣市</th><th width="100">動態資料延遲時間</th></tr>
+<tr><td height="30">公總</td><td>即時推播，約2~3秒</td></tr>
+<tr><td height="30">台北市</td><td>約10秒</td></tr>
 </table>
 </body>
