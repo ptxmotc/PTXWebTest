@@ -34,8 +34,7 @@
         -	 Unauthorized （未帶簽章，未經授權）
     
   
-  
--  Ticket與HMAC機制平行運轉期間，使用HMAC機制(APP ID及APP Key)則不須再取得ticket。
+
 
 -  APP ID及APP Key：不同層級的資料服務類型，會給予不同的ID/Key組合，例如:基礎資料服務(L1)與基礎加值服務(L2)會分別給予兩組不同的ID/Key組合(詳請參考[資料服務查詢](https://ptx.transportdata.tw/PTX/Service)中的**API服務類型**，目前提供的資料服務多屬L1，L2之服務目前僅有場站空氣品質服務，後續會再進行擴充。
 
