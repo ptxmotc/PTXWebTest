@@ -1,13 +1,13 @@
 # Summary
 
-* [快速入門](README.md)
-* API會員申請
+* [本書入門指南](README.md)
+* 會員申請
   * [會員分級](member/MemberType.md)
-  * [會員申請流程](member/RegisterSOP.md)
-  * [會員註冊申請](member/GoRegister.md)
+  * [申請流程](member/RegisterSOP.md)
+  * [註冊申請](member/GoRegister.md)
   * [常見問題](member/MemberFAQ.md) 
 * API使用
-  * [API授權驗證](api/HMac.md)
+  * [授權驗證](api/HMac.md)
   * [線上教學](api/Demo.md)
   * [範例程式](api/Code.md)
   * [常見問題](api/FAQ.md)
