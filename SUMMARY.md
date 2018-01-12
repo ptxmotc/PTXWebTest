@@ -21,7 +21,7 @@
   * [公車API資料使用注意事項](FAQ/Bus.md)
   * [雙鐵API資料使用注意事項](FAQ/Rail.md)
   * [靜態異動檔API資料使用注意事項](FAQ/Variation.md)
-  * [常見問題](FAQ/FAQ.md)    
+   
 
 
 
