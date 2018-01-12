@@ -15,7 +15,7 @@
   * [URI命名原則](api/URI.md)
   * [支援OData查詢語法](api/OData.md)    
 * API資料使用注意事項
-  * [資料服務版本說明](FAQ/Version.md)
+  * [版本說明](FAQ/Version.md)
   * [資料供應現況](FAQ/SupplyStatus.md)
   * [航空API資料使用注意事項](FAQ/Aviation.md)
   * [公車API資料使用注意事項](FAQ/Bus.md)
