@@ -23,5 +23,5 @@
   + CSharp 與 .NET Standard 2.0 範例程式碼（會員txstudio提供）
   + PHP 範例程式碼（會員Benyi提供）
 
-### <i class="icon-file"></i> 詳看範例程式[請點我](https://github.com/ptxmotc/Sample-code/blob/master/README.md)
+### 詳看範例程式[請點我](https://github.com/ptxmotc/Sample-code/blob/master/README.md)
 
