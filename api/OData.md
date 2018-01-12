@@ -25,17 +25,17 @@
     {select}：回傳資料的某些欄位    
     範例：火車車站基本資料 http://ptx.transportdata.tw/MOTC/v2/Rail/TRA/Station?$orderby=StationID&$top=10&$skip=100&$format=JSON 
     
-    {and}：而且     
+     {and}：而且     
     
-    {or}：或者     
+     {or}：或者     
     
-    {not}：否定     
+     {not}：否定     
     
-    {date}：日期     
+     {date}：日期     
     
-    {contains}：包含     
+     {contains}：包含     
     
-    {all}：所有項目都要符合       
+     {all}：所有項目都要符合       
     
     範例：針對停靠時間資料底下的車站代碼，全部的車站代碼為1000的資料就回傳  $filter=StopTimes/any(d:d/StationID eq '1000'
     
