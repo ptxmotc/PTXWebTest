@@ -1,5 +1,5 @@
 ## 【範例程式】
-# PTX Public Transport API 介接範例程式碼說明
+# Public Transport API 介接範例程式碼說明
 
 ---
 
