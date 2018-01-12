@@ -3,8 +3,6 @@
 
 -  說明:本平臺原採用ticket認證授權機制，後配合API Management解決方案的導入，改採HMAC認證授權機制。
 
-- 原ticket機制：係透過/v2/Account/Login API取得ticket，再透過該ticket取得各式API資料。該機制將配合新的HMAC機制導入後，隨即失效。
-
 - HMAC機制：以HMAC簽章驗證使用者的身份，用戶在請求API服務時，將APP Key 與當下時間(格式請使用GMT時間) 做HMAC-SHA1 運算後轉成Base64 格式，帶入signature屬性欄位，服務器端將驗證用戶請求時的header欄位(詳如第四點)，驗證使用者的身份及請求服務的時效性。
 
 - HMAC Signature簽章時效性：於MOTC Helper 該網頁測試時，請在最上方輸入 API Key 與 API ID 
