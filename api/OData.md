@@ -11,10 +11,15 @@
 -  進階查詢
 
    {dataId}：資料代號
+   
    {top}：取最前筆數
+   
    {skip}：跳過筆數
+   
      $orderby {Field1 asc}：針對某欄位作升冪 
+     
      $orderby{Field1 desc}：針對某欄位作降冪
+     
      範例：火車車站基本資料 http://ptx.transportdata.tw/MOTC/v2/Rail/TRA/Station?$orderby={StationID}&$top=10&$skip=100&$format=JSON 
     {filter}：回傳符合特定表達式的資料   
     {select}：回傳資料的某些欄位    
