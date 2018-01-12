@@ -4,7 +4,7 @@
 
 交通部「公共運輸整合資訊流通服務平臺(PTX)」為在有限的資源下提供用戶穩定的資料服務水準、提升服務品質以及加強資訊安全管理，將於106年11月1日起，正式推動會員分級及導入API管理機制。
 
-會員級別可分為一般會員、進階會員及專案用戶，加值業者可依自身需求申請不同級別；惟各級別會員之權益及義務不盡相同，詳細資訊可參見本文之用戶權益與義務聲明。而PTX平臺導入API機制及會員申請流程說明，可下載文件參閱【<a href="https://ptx.transportdata.tw/PTX/Uploads/Announcement/ed3cc379-3897-4079-a56c-3e9addf9d632.pdf">連結</a>】。
+會員級別可分為一般會員、進階會員及專案用戶，加值業者可依自身需求申請不同級別；惟各級別會員之權益及義務不盡相同，詳細資訊可參見本文之用戶權益與義務聲明。而本平臺導入API機制及會員申請流程說明，可下載文件參閱【<a href="https://ptx.transportdata.tw/PTX/Uploads/Announcement/ed3cc379-3897-4079-a56c-3e9addf9d632.pdf">連結</a>】。
 此外，提供<a href="https://ptx.transportdata.tw/PTX/Common/MemberFAQ">會員申請常見問題</a>內容供您參閱。
 
 為保障您的權益，在您開始以下使用本平臺或註冊成為本平臺會員時，即視為您已確認詳閱、瞭解並同意1)<a href="https://ptx.transportdata.tw/PTX/Static/memberPolicy.html">用戶權益與義務聲明</a>及2)<a href="https://ptx.transportdata.tw/PTX/APIS/Privacy">隱私權保護及資訊安全政策</a>之所有內容。如您不同意本聲明全部或部分內容，請勿註冊，並請立即停止使用本服務。本聲明之具體約定內容如下：
