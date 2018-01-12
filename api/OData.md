@@ -16,37 +16,35 @@
 
      {skip}：跳過筆數
 
-     {orderby}：排序欄位
-
-     範例：火車車站基本資料 http://ptx.transportdata.tw/MOTC/v2/Rail/TRA/Station?$orderby=StationID&$top=10&$skip=100&$format=JSON 
-
-     備註：其中StationID為資料欄位名稱
-
-    {filter}：回傳符合特定表達式的資料
+     $orderby {Field1 asc}：針對某欄位作升冪 
      
-    {select}：回傳資料的某些欄位
+     $orderby{Field1 desc}：針對某欄位作降冪
+
+     範例：火車車站基本資料 http://ptx.transportdata.tw/MOTC/v2/Rail/TRA/Station?$orderby={StationID}&$top=10&$skip=100&$format=JSON 
+
+     {filter}：回傳符合特定表達式的資料
+     
+     {select}：回傳資料的某些欄位
     
-    範例：火車車站基本資料 http://ptx.transportdata.tw/MOTC/v2/Rail/TRA/Station?$orderby=StationID&$top=10&$skip=100&$format=JSON 
-          
-    {and}：而且
+     範例：火車車站基本資料 http://ptx.transportdata.tw/MOTC/v2/Rail/TRA/Station?$orderby=StationID&$top=10&$skip=100&$format=JSON 
      
-    {or}：或者
+     {and}：而且
      
-    {not}：否定
+     {or}：或者
      
-    {date}：日期
+     {not}：否定
      
-    {contains}：包含
+     {date}：日期
      
-    {all}：所有項目都要符合 
+     {contains}：包含
      
-    範例：針對停靠時間資料底下的車站代碼，全部的車站代碼為1000的資料就回傳  $filter=StopTimes/any(d:d/StationID eq '1000'
+     {all}：所有項目都要符合 
+     
+     範例：針對停靠時間資料底下的車站代碼，全部的車站代碼為1000的資料就回傳  $filter=StopTimes/any(d:d/StationID eq '1000'
 
-    {any}：其中一項符合
+     {any}：其中一項符合
      
-    範例：針對停靠時間資料底下的車站代碼，其中一筆的車站代碼為1000的資料就回傳 $filter=StopTimes/all(d:d/StationID eq  '1000') 
-     
-    $orderby {Field1 asc}：針對某欄位作升冪 
-    $orderby{Field1 desc}：針對某欄位作降冪
+     範例：針對停靠時間資料底下的車站代碼，其中一筆的車站代碼為1000的資料就回傳 $filter=StopTimes/all(d:d/StationID eq  '1000') 
+
 
 -  ODATA服務開發實作： 請詳見[連結](http://ptx.transportdata.tw/ptx/Download/公共運輸整合資訊平台資料服務開發實作.pdf)。
