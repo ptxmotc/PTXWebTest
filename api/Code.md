@@ -7,7 +7,7 @@
 為加速開發者能快速使用公共運輸資訊整合流通服務平台（PTX）開放之旅運資料服務，將提供不同程式語言的範例程式碼提供開發者下載，於開發環境開啟後即可依範例程式碼自行擴充，降低學習曲線。
 
 
-- 使用程式（如：C#、Java、JavaScript 等）取得資料時，請記得加入 HTTP Header 設定 (Accept-Encoding: gzip, deflate)，可有效減傳輸量。
+- 使用程式（如：C#、Java、JavaScript 等）取得資料時，請記得加入 HTTP Header 設定 (Accept-Encoding: gzip， deflate)，可有效減傳輸量。
 
 - 如何使用HMAC 機制:影片教學
 
