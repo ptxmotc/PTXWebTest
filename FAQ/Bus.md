@@ -39,7 +39,7 @@
 
 -  為何公車的路線站牌、時刻表資料（StopOfRoute）會多一個營運業者（OperatorID）欄位？
      
-     考量公路客運及市區公車資料屬性一致性，且來源端公路客運資料的特性同一站牌會因為分屬不同的客運業者而有不同的StopID，而預估到站資料(N1)中的StopID會與其對應，故加值業者在使用公總的StopOfRoute時，要注意對於同一路線由兩個或多個不同客運業者經營時，會有依營運業者而有不同StopOfRoute之多套清單現象。
+     考量公路客運及市區公車資料屬性一致性，且來源端公路客運資料的特性同一站牌會因為分屬不同的客運業者而有不同的StopID，而預估到站資料（N1）中的StopID會與其對應，故加值業者在使用公總的StopOfRoute時，要注意對於同一路線由兩個或多個不同客運業者經營時，會有依營運業者而有不同StopOfRoute之多套清單現象。
      
 -  顯示用路線站序（DisplayStopOfRoute）資料與路線站序（StopOfRoute）資料之差異
 
@@ -49,7 +49,7 @@
      
      ![路線站序與顯示越路線站序差異圖](https://gist.githubusercontent.com/ptxmotc/82c644bb8c8bae454e551ccc544c31dd/raw/ede12a45754f79427691add47683c9df127ceacf/%25E9%25A1%25AF%25E7%25A4%25BA%25E7%2594%25A8%25E8%25B7%25AF%25E7%25B7%259A%25E7%25AB%2599%25E5%25BA%258F.jpg)
 
-     +	當某特定路線下不存在任何其他附屬路線時，其路線站序（StopOfRoute)資料內容會完全等同於顯示用路線站序（DisplayStopOfRoute）資料。
+     +	當某特定路線下不存在任何其他附屬路線時，其路線站序（StopOfRoute）資料內容會完全等同於顯示用路線站序（DisplayStopOfRoute）資料。
 
      +	以前顯示用路線站序（DisplayStopOfRoute）是併同在路線站序（StopOfRoute）資料中，並以KeyPattern欄位進行區分，但由於多數加值業者反應將此兩項資料加以區分以利使用，因此針對部分縣市(如台北市及新北市）新增提供顯示用路線站序（DisplayStopOfRoute）資料，並將原路線站序（StopOfRoute）中的KeyPattern欄位刪除及將相對應的資料搬移至顯示用路線站序（DisplayStopOfRoute）資料中。
 
