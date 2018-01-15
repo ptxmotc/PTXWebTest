@@ -1,4 +1,4 @@
-## 【支援ODATA查詢語法】
+## 【支援OData查詢語法】
 
 
 
@@ -49,4 +49,4 @@ $orderby{Field1 desc}：針對某欄位作降冪
    + 範例：針對停靠時間資料底下的車站代碼，任一筆的車站代碼為1000的資料就回傳 $filter=StopTimes/any(d:d/StationID eq  '1000') 
 
 
-###  更多ODATA服務開發教學請詳見[連結](http://ptx.transportdata.tw/ptx/Download/公共運輸整合資訊平台資料服務開發實作.pdf)。
+###  更多OData服務開發教學請詳見[連結](http://ptx.transportdata.tw/ptx/Download/公共運輸整合資訊平台資料服務開發實作.pdf)。
