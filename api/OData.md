@@ -44,7 +44,7 @@
    
    {any}：其中一項符合
    
-     + 範例：針對停靠時間資料底下的車站代碼，其中一筆的車站代碼為1000的資料就回傳 $filter=StopTimes/any(d:d/StationID eq  '1000') 
+     + 範例：針對停靠時間資料底下的車站代碼，任一筆的車站代碼為1000的資料就回傳 $filter=StopTimes/any(d:d/StationID eq  '1000') 
 
 
 
