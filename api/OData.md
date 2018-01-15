@@ -2,13 +2,15 @@
 
 
 
--  基本查詢 http://ptx.transportdata.tw/MOTC/Rail/TRA/Station?$format={format}
+###  基本查詢 
+
+     http://ptx.transportdata.tw/MOTC/Rail/TRA/Station?$format={format}
 
      {format}為資料格式：json、xml、csv
      
      範例：火車車站基本資料http://ptx.transportdata.tw/MOTC/Rail/TRA/Station?$format=xml
 
--  進階查詢
+###  進階查詢
    
    {dataId}：資料代號
    
