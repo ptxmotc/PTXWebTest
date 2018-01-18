@@ -4,10 +4,19 @@
 
 ###  基本查詢 
 
-   http://ptx.transportdata.tw/MOTC/{運具種類}/{運具}/{Data}
-   {運具種類}：Basic、Air、Bus、Bike、Rail
+- 航空API URI規則：http://ptx.transportdata.tw/MOTC/v2/Air/{Data}
 
+- 市區公車API URI規則：http://ptx.transportdata.tw/MOTC/v2/Bus/{Data}/City/{City}/{RouteName}
 
+- 公路客運API URI規則：http://ptx.transportdata.tw/MOTC/v2/Bus/{Data}/InterCity/{RouteName}
+
+- 軌道API URI規則：http://ptx.transportdata.tw/MOTC/v2/Rail/{Operator}/{Data}
+  {Operator}：TRA: 台鐵; THSR: 高鐵
+
+- 捷運API URI規則：http://ptx.transportdata.tw/MOTC/v2/Rail/Metro/{Data}/{Operator}
+  {Operator}：TRTC: 北捷; KRTC: 高捷;TYTC: 桃捷
+
+- 自行車API URI規則：http://ptx.transportdata.tw/MOTC/v2/Bike/{Data}/{City}
 
 
 | OData查詢語法 |  說明  | 範例  |
@@ -18,6 +27,7 @@
 | top | 取最前筆數 | 火車車站基本資料取前10筆 <br>$top=10</br> |
 | skip | 跳過筆數 | 火車車站基本資料跳過前100筆 <br>$skip=100</br> |
 | date | 日期 | 資料紀錄時間的日期格式為2015-09-17的資料<br>$filter=date(UpdateTime) eq  2015-09-17</br>  |
+| time | 時間 | 資料紀錄時間的時間格式為17:57:00+08:00的資料<br>$filter=time(UpdateTime) eq 11:59:48</br> |
 | contains | 包含 | 車牌號碼為包含的FA的資料<br>$filter=contains(PlateNumb, 'FA')</br> |
 | all | 所有項目都要符合|針對停靠時間資料底下車站代碼，全部的車站代碼為1000的資料就回傳 <br> $filter=StopTimes/all(d:d/StationID eq '1000')</br> |
 | any | 其中一項符合 | 針對停靠時間資料底下車站代碼，任一筆的車站代碼為1000的資料就回傳 <br>$filter=StopTimes/any(d:d/StationID eq  '1000')</br> |
