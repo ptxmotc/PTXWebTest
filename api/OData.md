@@ -11,7 +11,7 @@
 
 | OData查詢語法 |  說明  | 範例  |
 | :--: | :--------: | :--------: |
-| {format} |資料格式：json、xml、csv|火車車站基本資料<br>$format=xml</br>|
+| {format} |資料格式json、xml、csv|火車車站基本資料<br>$format=xml</br>|
 | {filter}|回傳符合特定表達式的資料   |$filter={StationID}|
 |{select} | 回傳資料的某些欄位||
 |{top}|取最前筆數|火車車站基本資料 <br>$filter=$top eq 10&$format eq JSON</br> |
