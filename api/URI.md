@@ -23,7 +23,7 @@ Web API （application programming interface）的表現方式，分為網站根
 | Application（應用內容）| 根據每個服務而提不同的應用內容，例如:航空:航班資訊（FIDS）和機場資訊（Airport）等。|
 
 
-###  基本API URI設計 
+###  各運具API URI設計 
 
 - 航空API URI規則：http://ptx.transportdata.tw/MOTC/v2/Air/{Data}
 
@@ -38,6 +38,8 @@ Web API （application programming interface）的表現方式，分為網站根
   + {Operator}：TRTC: 北捷; KRTC: 高捷;TYTC: 桃捷
 
 - 自行車API URI規則：http://ptx.transportdata.tw/MOTC/v2/Bike/{Data}/{City}
-- 查詢選項：指定欲取得資料的範圍或查詢的條件。
 
-- PTX API URI說明文件詳見連結請詳見[連結](http://ptx.transportdata.tw/ptx/Download/API_URI_Convention文件_v1.pdf)。
+
+### PTX API URI說明文件詳見連結請詳見以下連結
+
+   [http://ptx.transportdata.tw/ptx/Download/API_URI_Convention文件_v1.pdf](http://ptx.transportdata.tw/ptx/Download/API_URI_Convention文件_v1.pdf)
