@@ -7,10 +7,10 @@
 | OData語法 |  說明  | 範例  |
 | :--: | :--------: | :--------: |
 | format | 資料格式json、xml、csv | 回傳xml格式<br>$format=xml</br> |
-| filter | 回傳符合特定表達式的資料 | 車牌號碼等於636-U7的資料<br>$filter=PlateNumb eq '636-U7'</br> |
 | select | 回傳資料的某些欄位 | 回傳欄位1<br>$select= Field1</br>|
 | top | 取最前筆數 | 取前10筆 <br>$top=10</br> |
 | skip | 跳過筆數 | 跳過前100筆 <br>$skip=100</br> |
+| filter | 回傳符合特定表達式的資料 | 車牌號碼等於636-U7的資料<br>$filter=PlateNumb eq '636-U7'</br> |
 | date | 日期 | UpdateTime的日期格式為2015-09-17的資料<br>$filter=date(UpdateTime) eq  2015-09-17</br>  |
 | time | 時間 | UpdateTime的時間格式為17:57:00+08:00的資料<br>$filter=time(UpdateTime) eq 11:59:48</br> |
 | contains | 包含 | 車牌號碼包含FA的資料<br>$filter=contains(PlateNumb, 'FA')</br> |
