@@ -4,7 +4,7 @@
 
 ###  基本查詢 
 
-   http://ptx.transportdata.tw/MOTC/Rail/TRA/Station?$format={format}
+   http://ptx.transportdata.tw/MOTC/{運具種類}/{運具}/{Data}
 
 
 
