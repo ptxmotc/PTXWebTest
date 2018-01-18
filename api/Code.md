@@ -11,7 +11,7 @@
 
 - 如何使用HMAC 機制:影片教學
 
-<center><iframe width="560" height="320" src="https://www.youtube.com/embed/hDTEJAxW0Rs" frameborder="0" gesture="media" allowfullscreen></iframe></center>
+<center><iframe width="560" height="320" src="https://www.youtube.com/embed/m6mjfnvfeZE" frameborder="0" gesture="media" allowfullscreen></iframe></center>
 
 
 
