@@ -14,11 +14,11 @@
 | OData查詢語法 |  說明  | 範例  |
 | :--: | :--------: | :--------: |
 | {format} |資料格式：json、xml、csv|火車車站基本資料<br>$format=xml</br>|
-|{top}|取最前筆數|火車車站基本資料 <br>$filter={StationID}&$top=10&$format=JSON</br> |
-| {skip}|跳過筆數 |火車車站基本資料 <br>$filter={StationID}&$skip=100&$format=JSON</br> |
+|{top}|取最前筆數|火車車站基本資料 <br>$filter=$top=10&$format=JSON</br> |
+| {skip}|跳過筆數 |火車車站基本資料 <br>$filter=$skip=100&$format=JSON</br> |
 | orderby {Field asc}|針對某欄位作升冪  ||
 |orderby{Field desc} |針對某欄位作降冪    ||
-| {filter}|回傳符合特定表達式的資料   ||
+| {filter}|回傳符合特定表達式的資料   |$filter={StationID}|
 |{select} | 回傳資料的某些欄位||
 
 
