@@ -2,22 +2,6 @@
 
 
 
-###  基本API URI設計 
-
-- 航空API URI規則：http://ptx.transportdata.tw/MOTC/v2/Air/{Data}
-
-- 市區公車API URI規則：http://ptx.transportdata.tw/MOTC/v2/Bus/{Data}/City/{City}/{RouteName}
-
-- 公路客運API URI規則：http://ptx.transportdata.tw/MOTC/v2/Bus/{Data}/InterCity/{RouteName}
-
-- 軌道API URI規則：http://ptx.transportdata.tw/MOTC/v2/Rail/{Operator}/{Data}
-  + {Operator}：TRA: 台鐵; THSR: 高鐵
-
-- 捷運API URI規則：http://ptx.transportdata.tw/MOTC/v2/Rail/Metro/{Data}/{Operator}
-  + {Operator}：TRTC: 北捷; KRTC: 高捷;TYTC: 桃捷
-
-- 自行車API URI規則：http://ptx.transportdata.tw/MOTC/v2/Bike/{Data}/{City}
-
 ###  OData語法
 
 | OData語法 |  說明  | 範例  |
