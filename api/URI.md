@@ -26,7 +26,7 @@
 
 ###  各運具API URI設計 
 
-- 航空API URI規則：http://ptx.transportdata.tw/MOTC/v2/Air/{Data}
+- 航空API URI規則：[http://ptx.transportdata.tw/MOTC/v2/Air/{Data}](https://ptx.transportdata.tw/MOTC/Swagger/)
 
 - 市區公車API URI規則：http://ptx.transportdata.tw/MOTC/v2/Bus/{Data}/City/{City}/{RouteName}
 
