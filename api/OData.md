@@ -21,8 +21,8 @@
 | {not}| 否定  ||
 |{date} |日期 ||
 | {contains}| 包含  ||
-| {all}| 所有項目都要符合|針對停靠時間資料底下的車站代碼，全部的車站代碼為1000的資料就回傳 <br> $filter=StopTimes/all(d:d/StationID eq '1000')</br>|
-| {any}|  其中一項符合 |針對停靠時間資料底下的車站代碼，任一筆的車站代碼為1000的資料就回傳 <br>$filter=StopTimes/any(d:d/StationID eq  '1000')</br> |
+| {all}| 所有項目都要符合|針對停靠時間資料底下車站代碼，全部的車站代碼為1000的資料就回傳 <br> $filter=StopTimes/all(d:d/StationID eq '1000')</br>|
+| {any}|  其中一項符合 |針對停靠時間資料底下車站代碼，任一筆的車站代碼為1000的資料就回傳 <br>$filter=StopTimes/any(d:d/StationID eq  '1000')</br> |
 | | ||
 | orderby {Field asc}|針對某欄位作升冪  ||
 |orderby{Field desc} |針對某欄位作降冪    ||
