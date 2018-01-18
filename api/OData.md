@@ -2,7 +2,7 @@
 
 
 
-###  基本查詢 
+###  基本API URI設計 
 
 - 航空API URI規則：http://ptx.transportdata.tw/MOTC/v2/Air/{Data}
 
@@ -18,8 +18,9 @@
 
 - 自行車API URI規則：http://ptx.transportdata.tw/MOTC/v2/Bike/{Data}/{City}
 
+###  OData語法
 
-| OData查詢語法 |  說明  | 範例  |
+| OData語法 |  說明  | 範例  |
 | :--: | :--------: | :--------: |
 | format | 資料格式json、xml、csv | 回傳xml格式<br>$format=xml</br> |
 | filter | 回傳符合特定表達式的資料 | 車牌號碼等於636-U7的資料<br>$filter=PlateNumb eq '636-U7'</br> |
