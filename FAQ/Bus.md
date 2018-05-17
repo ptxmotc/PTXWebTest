@@ -11,10 +11,9 @@
     +	**站位**：當多筆站牌資料表示為同一站牌區位時則以站位資料為表示，而站牌與站位間之關聯記錄在站牌基本資料中會有一個站位代碼StationID代表。
 
      如：StationUID為TPE50629（劍潭），PositionLat: 25.0807666778564，PositionLon: 121.524398803711，此站位只有一筆經緯度資料。目前僅有台北市、新北市、公路總局提供站位資料，其餘縣市尚無法提供。
-     
           
      
-      ![站牌站位示意圖](https://raw.githubusercontent.com/ptxmotc/PTX_Web/master/Swagger服務說明上傳參考檔案/站牌站位差異圖.png)
+    ![站牌站位示意圖](https://raw.githubusercontent.com/ptxmotc/PTX_Web/master/Swagger服務說明上傳參考檔案/站牌站位差異圖.png)
       
       
      
