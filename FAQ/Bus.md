@@ -14,8 +14,7 @@
 
      
      ![站牌站位示意圖](https://raw.githubusercontent.com/ptxmotc/PTX_Web/master/Swagger%E6%9C%8D%E5%8B%99%E8%AA%AA%E6%98%8E%E4%B8%8A%E5%82%B3%E5%8F%83%E8%80%83%E6%AA%94%E6%A1%88/%E7%AB%99%E7%89%8C%E7%AB%99%E4%BD%8D%E5%B7%AE%E7%95%B0%E5%9C%96.png)
-
-
+     
 -  為何有些公車路線GIS線型資料分去返程（分2條線型圖資），有些卻沒有分（只有1條線型圖資）？
 
     此現象係為來源端供應資料現狀，目前六都線型資料中僅台北與新北沒有分去返程，其餘縣市皆有分去返程，標準Inbound說明文件已將Direction去返程納入線型資料。
