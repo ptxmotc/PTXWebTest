@@ -11,11 +11,12 @@
         }
     },
     "plugins": [
-        "-lunr", "-search", "search-plus","-highlight",
+        "-lunr", "-search", "search-plus", "-fontsettings","-highlight",
         "splitter",
         "localized-footer",
         "back-to-top-button",
         "theme-comscore",
+        "emphasize",
     ],
     "pluginsConfig": {
         "localized-footer": {
