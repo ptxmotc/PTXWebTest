@@ -1,14 +1,6 @@
 {
-    "title": "GitBook 使用教程",
-    "description": "记录 GitBook 的配置和一些插件的使用",
-    "author": "zhangjikai",
-    "output.name": "site",
-    "language": "zh-hans",
-    "gitbook": "3.2.3",
-    "root": ".",
-    "structure": {
-        "readme": "introduction.md"
-    },
+    "title" : "PTX API Documentation",
+    "author" : "deded",
     "links": {
         "sidebar": {
             "公共運輸整合資訊流通服務平臺": "http://ptx.transportdata.tw/PTX"
