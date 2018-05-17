@@ -1,15 +1,6 @@
 {
     "title" : "PTX API Documentation",
     "author" : "deded",
-     "links": {
-        "sidebar": {
-            "公共運輸整合資訊流通服務平臺": "http://ptx.transportdata.tw/PTX"
-        },
-        "sharing": {
-            "google": null,
-            "facebook": null
-        }
-    },
     "plugins": [
         "-lunr", "-search", "search-plus","-fontsettings","-highlight",
         "splitter",
