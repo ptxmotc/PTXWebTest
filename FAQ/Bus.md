@@ -13,7 +13,7 @@
      如：StationUID為TPE50629（劍潭），PositionLat: 25.0807666778564，PositionLon: 121.524398803711，此站位只有一筆經緯度資料。目前僅有台北市、新北市、公路總局提供站位資料，其餘縣市尚無法提供。
      
      
-      ![路線站序與顯示越路線站序差異圖](https://raw.githubusercontent.com/ptxmotc/PTX_Web/master/Swagger%E6%9C%8D%E5%8B%99%E8%AA%AA%E6%98%8E%E4%B8%8A%E5%82%B3%E5%8F%83%E8%80%83%E6%AA%94%E6%A1%88/%E7%AB%99%E7%89%8C%E7%AB%99%E4%BD%8D%E5%B7%AE%E7%95%B0%E5%9C%96.png)
+     ![路線站序與顯示越路線站序差異圖](https://raw.githubusercontent.com/ptxmotc/PTX_Web/master/Swagger%E6%9C%8D%E5%8B%99%E8%AA%AA%E6%98%8E%E4%B8%8A%E5%82%B3%E5%8F%83%E8%80%83%E6%AA%94%E6%A1%88/%E7%AB%99%E7%89%8C%E7%AB%99%E4%BD%8D%E5%B7%AE%E7%95%B0%E5%9C%96.png)
      
 -  為何有些公車路線GIS線型資料分去返程（分2條線型圖資），有些卻沒有分（只有1條線型圖資）？
 
