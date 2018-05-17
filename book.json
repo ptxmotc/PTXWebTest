@@ -11,7 +11,7 @@
         }
     },
     "plugins": [
-        "-lunr", "search-plus","-highlight",
+        "-lunr", "-search", "search-plus","-highlight",
         "splitter",
         "localized-footer",
         "back-to-top-button",
