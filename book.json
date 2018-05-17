@@ -17,6 +17,11 @@
         "back-to-top-button",
         "theme-comscore",
         "emphasize"
+        "highlight"
+        "search"
+        "sharing"
+        "font-settings"
+        "livereload"
     ],
     "pluginsConfig": {
         "localized-footer": {
