@@ -1,9 +1,6 @@
 {
     "title" : "公共運輸整合資訊流通服務平臺",
     "author" : "deded",
-    "variables": {
-        "v": "Hello World"
-    } ,
     "sharing": {
         "google": null,
         "facebook": null
