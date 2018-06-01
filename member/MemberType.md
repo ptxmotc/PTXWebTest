@@ -21,7 +21,7 @@
 
 ### （二）	義務說明
 1. 須遵循國發會政府資料開放相關規範，相關權益詳閱<a href="https://ptx.transportdata.tw/PTX/APIS/Terms">授權條款</a>。
-2. 會員需於加值應用上顯名聲明介接「交通部PTX平臺」資料，若未能於改善期間執行，PTX平臺有權限制連線次數。(顯名聲明：資料介接「交通部PTX平臺」&平臺標章【<a href="http://ptx.transportdata.tw/PTX/logo.png">Logo下載</a>】
+2. 會員需於加值應用上顯名聲明介接「交通部PTX平臺」資料，若未能於改善期間執行，PTX平臺有權限制連線次數。(顯名聲明：資料介接「交通部PTX平臺」&平臺標章【<a href="https://github.com/ptxmotc/PTX_Web/blob/master/交通部PTX平臺LOGO.zip?raw=true">Logo下載</a>】
 3. 進階會員及專案用戶需定期回饋給本部瞭解加值應用用戶數或其他可了解加值應用效益之統計數字。
 4. 專案用戶須接受本部市場使用訪查，俾利政策研析，共同為本平臺永續發展而努力。
 
