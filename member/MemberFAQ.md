@@ -36,5 +36,28 @@
 
 ### 問題11：介接PTX平臺資料，該如何顯著聲明呢？ 
 - 可顯名聲明：資料介接「交通部PTX平臺」並加入 平臺標章【<a href="https://github.com/ptxmotc/PTX_Web/blob/master/交通部PTX平臺LOGO.zip?raw=true">Logo下載</a>】
+
+### 問題12：為甚麼突然接不到PTX的資料呢？
+- PTX平臺從11/1起正式導入API機制，導入該機制後取得資料方式從原有Token改為HMAC機制，後續進行API的存取管控。故所有介接平台資料的使用者皆須修改您取得資料的方式，您可參考【<a href="https://github.com/ptxmotc/Sample-code">範例程式碼</a>】。
+
+### 問題13：一定要加入會員才能獲取資料嗎?
+- 不一定。但如未加入會員會有5000次/日的取用限制，並且僅限於Swagger介面中存取，若透過瀏覽器輸入原API網址，則仍會產生{"message":"Unauthorized"}的訊息，故建議可申請成為API一般會員以享有基本上限20,000次/日服務次數。
+
+### 問題14：同一APP ID及Key是否有限制IP數量?
+- 沒有限制IP數量。
+
+### 問題15：如果到達使用次數上限(rate limit)會如何?
+- 會阻斷服務，訊息顯示http status 403。 說明：403 沒有權限讀取，可能是IP被阻檔或是伺服器限制。
+
+### 問題16：何時會重新計算?
+- 採用UTC時間00:00 重新計算。以台灣時區為UTC+8，即為早上8:00更新。
+
+### 問題17：次數不夠怎麼辦?
+- 建議可檢查呼叫策略。 
+說明：每次僅取公總一條路線資料 http://ptx.transportdata.tw/MOTC/v2/Bus/Route/InterCity/{RouteName}
+建議可以採用一次性呼叫，取得所有路線的手法 http://ptx.transportdata.tw/MOTC/v2/Bus/Route/InterCity
+另外使用程式(如:C#、Java、JavaScript等)取得資料時，請記得加入HTTP Header設定(Accept-Encoding: gzip, deflate)，可有效減傳輸量，詳細可參閱【<a href="https://github.com/ptxmotc/Sample-code">範例程式碼</a>】。
+
+
       
 若有任何疑問，歡迎透過以下方式聯絡我們：ptx@motc.gov.tw，（02） 2349-2803。  
