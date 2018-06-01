@@ -35,6 +35,6 @@
 說明：APP ID為會員級別申請之API服務類型，系統自動產生之唯一識別身份值。APP Key則為該APP ID對應之加密憑證。
 
 ### 問題11：介接PTX平臺資料，該如何顯著聲明呢？ 
-- 可顯名聲明：資料介接「交通部PTX平臺」並加入 平臺標章【<a href="http://ptx.transportdata.tw/PTX/logo.png">Logo下載</a>】
+- 可顯名聲明：資料介接「交通部PTX平臺」並加入 平臺標章【<a href="https://github.com/ptxmotc/PTX_Web/blob/master/交通部PTX平臺LOGO.zip?raw=true">Logo下載</a>】
       
 若有任何疑問，歡迎透過以下方式聯絡我們：ptx@motc.gov.tw，（02） 2349-2803。  
