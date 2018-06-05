@@ -24,8 +24,8 @@
         "localized-footer",
         "back-to-top-button",
         "theme-comscore",
-        "emphasize"
-        "toggle-chapters"
+        "emphasize",
+        "toggle-chapters",
     ],
     "pluginsConfig": {
         "localized-footer": {
