@@ -27,4 +27,5 @@
   + Node.js（會員NoobTW提供）
   + CSharp 與 .NET Standard 2.0 範例程式碼（會員txstudio提供）
   + PHP 範例程式碼（會員Benyi提供）
+  + Python 範例程式碼（會員Wesely提供）
 
