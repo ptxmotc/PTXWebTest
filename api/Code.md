@@ -28,5 +28,5 @@
   + CSharp 與 .NET Standard 2.0 範例程式碼（會員txstudio提供）
   + PHP 範例程式碼（會員Benyi提供）
   + Python 範例程式碼（會員Wesely提供）
-  + HMAC （會員g78101提供）
+  + Swift （會員g78101提供）
 
