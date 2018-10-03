@@ -21,12 +21,12 @@
 
 - 範例語言教學包含：
 
-  + ASP.NET
-  + Java
-  + JavaScript
-  + Node.js（會員NoobTW提供）
+  + ASP.NET範例程式碼
+  + Java範例程式碼
+  + JavaScript範例程式碼
+  + Node.js範例程式碼（會員NoobTW提供）
   + CSharp 與 .NET Standard 2.0 範例程式碼（會員txstudio提供）
   + PHP 範例程式碼（會員Benyi提供）
   + Python 範例程式碼（會員Wesely提供）
-  + Swift （會員g78101提供）
+  + Swift範例程式碼 （會員g78101提供）
 
