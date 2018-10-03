@@ -18,6 +18,7 @@
 | any | 其中一項符合 | 針對停靠時間資料底下車站代碼，任一筆的車站代碼為1000的資料就回傳 <br>$filter=StopTimes/any(d:d/StationID eq  '1000')</br> |
 | orderby {Field asc} | 針對某欄位作升冪 | 針對欄位1作升冪<br>$orderby= Field1 asc</br> |
 | orderby{Field desc} | 針對某欄位作降冪 | 針對欄位1作降冪<br>$orderby= Field1 desc</br>|
+| spatialFilter | 尋找附近點位資料 | 尋找中心點: 緯度25.05463, 經度121.46584 ，範圍150 公尺內的資料<br>$spatialFilter=ne arby(StopPosition, 25.05463, 121.46584, 150) 40</br>|
 
 
 
