@@ -26,19 +26,19 @@
 
 ###  各運具API URI設計 
 
-- 航空API URI規則：http://ptx.transportdata.tw/MOTC/v2/Air/{Data}
+- 航空API URI規則：ptx.transportdata.tw/MOTC/v2/Air/{Data}
 
-- 市區公車API URI規則：http://ptx.transportdata.tw/MOTC/v2/Bus/{Data}/City/{City}/{RouteName}
+- 市區公車API URI規則：ptx.transportdata.tw/MOTC/v2/Bus/{Data}/City/{City}/{RouteName}
 
-- 公路客運API URI規則：http://ptx.transportdata.tw/MOTC/v2/Bus/{Data}/InterCity/{RouteName}
+- 公路客運API URI規則：ptx.transportdata.tw/MOTC/v2/Bus/{Data}/InterCity/{RouteName}
 
-- 軌道API URI規則：http://ptx.transportdata.tw/MOTC/v2/Rail/{Operator}/{Data}
+- 軌道API URI規則：ptx.transportdata.tw/MOTC/v2/Rail/{Operator}/{Data}
   + {Operator}：TRA: 台鐵; THSR: 高鐵
 
-- 捷運API URI規則：http://ptx.transportdata.tw/MOTC/v2/Rail/Metro/{Data}/{Operator}
+- 捷運API URI規則：ptx.transportdata.tw/MOTC/v2/Rail/Metro/{Data}/{Operator}
   + {Operator}：TRTC: 北捷; KRTC: 高捷;TYTC: 桃捷
 
-- 自行車API URI規則：http://ptx.transportdata.tw/MOTC/v2/Bike/{Data}/{City}
+- 自行車API URI規則：ptx.transportdata.tw/MOTC/v2/Bike/{Data}/{City}
 
 ※上述連結需套用所需查詢之Data資料類型、業管機關、城市或路線。
 
