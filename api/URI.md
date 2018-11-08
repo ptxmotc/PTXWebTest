@@ -40,6 +40,7 @@
 
 - 自行車API URI規則：http://ptx.transportdata.tw/MOTC/v2/Bike/{Data}/{City}
 
+※上述連結需套用所需查詢之Data資料類型、業管機關、城市或路線。
 
 ### PTX API URI說明文件詳見連結請詳見以下連結
 
