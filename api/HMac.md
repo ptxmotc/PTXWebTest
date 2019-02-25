@@ -21,20 +21,28 @@
 
 - HMAC認證失效樣態：依照存取API 的HTTP header資訊判別用戶是否為授權身份，若未符合身份驗證將以下列訊息回應用戶端。
 
+
+    +  HTTP Status Code 401：
+    
+        -	 Unauthorized （未帶簽章，未經授權）
+        
     +  HTTP Status Code 403：
 
         -	 HMAC signature cannot be verified, a valid date or x-date header is required for HMAC Authentication（x-date的間隔時間超過定義的clock skew秒數）    
 
         -	 HMAC signature does not match（日期格式正確，但簽章演算法有問題）
-
-    +  HTTP Status Code 401：
+                
+    +  HTTP Status Code 416：
     
-        -	 Unauthorized （未帶簽章，未經授權）
+        -	 超過最大平行連接數
+        
+    +  HTTP Status Code 423：
     
+        -	 超過單位時間(50 request/秒)能平行請求數
+        
     +  HTTP Status Code 429：
 
         -	 API rate limit exceeded （超過當日呼叫上限次數）
-
 
 -  APP ID及APP Key：不同層級的資料服務類型，會給予不同的ID/Key組合，例如:基礎資料服務(L1)與基礎加值服務(L2)會分別給予兩組不同的ID/Key組合詳請參考[資料服務查詢](https://ptx.transportdata.tw/PTX/Service)中的**API服務類型**，目前提供的資料服務多屬L1，L2之服務目前僅有場站空氣品質服務，後續會再進行擴充。
 
