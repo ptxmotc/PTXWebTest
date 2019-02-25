@@ -22,26 +22,26 @@
 - HMAC認證失效樣態：依照存取API 的HTTP header資訊判別用戶是否為授權身份，若未符合身份驗證將以下列訊息回應用戶端。
 
 
-    +   HTTP Status Code 401：
+   +   HTTP Status Code 401：
     
         -	 Unauthorized （未帶簽章，未經授權）
         
-    +   HTTP Status Code 403：
+   +   HTTP Status Code 403：
 
         -	 HMAC signature cannot be verified, a valid date or x-date header 
              is required for HMAC Authentication（x-date的間隔時間超過定義的clock skew秒數）    
 
         -	 HMAC signature does not match（日期格式正確，但簽章演算法有問題）
                 
-    +   HTTP Status Code 416：
+   +   HTTP Status Code 416：
     
         -	 超過最大平行連接數
         
-    +   HTTP Status Code 423：
+   +   HTTP Status Code 423：
     
         -	 超過單位時間(50 request/秒)能平行請求數
         
-    +   HTTP Status Code 429：
+   +   HTTP Status Code 429：
 
         -	 API rate limit exceeded （超過當日呼叫上限次數）
         
