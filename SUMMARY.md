@@ -1,24 +1,24 @@
-# Summary
+# Table of contents
 
 * [入門指南](README.md)
-* 會員申請
-  * [會員分級](member/MemberType.md)
-  * [註冊申請](member/GoRegister.md)
-  * [常見問題](member/MemberFAQ.md)
-* API使用 
+* [會員申請](hui-yuan-shen-qing/README.md)
+  * [會員分級](hui-yuan-shen-qing/membertype.md)
+  * [註冊申請](hui-yuan-shen-qing/goregister.md)
+  * [常見問題](hui-yuan-shen-qing/memberfaq.md)
+* [API使用](api-shi-yong/README.md)
   * [資料服務說明文件](https://ptx.transportdata.tw/MOTC/Swagger/)
-  * [授權驗證](api/HMac.md)
-  * [線上教學](api/Demo.md)
-  * [範例程式](api/Code.md)
-  * [常見問題](api/FAQ.md)
-* API特色
-  * [URI命名原則](api/URI.md)
-  * [支援OData查詢語法](api/OData.md)
-* API資料使用注意事項
-  * [版本說明](FAQ/Version.md)
-  * [資料供應現況](FAQ/SupplyStatus.md)
-  * [航空API資料使用注意事項](FAQ/Aviation.md)
-  * [公車API資料使用注意事項](FAQ/Bus.md)
-  * [雙鐵API資料使用注意事項](FAQ/Rail.md)
-  * [靜態異動檔API資料使用注意事項](FAQ/Variation.md)
+  * [授權驗證](api-shi-yong/hmac.md)
+  * [線上教學](api-shi-yong/demo.md)
+  * [範例程式](api-shi-yong/code.md)
+  * [常見問題](api-shi-yong/faq.md)
+* [API特色](api-te-se/README.md)
+  * [URI命名原則](api-te-se/uri.md)
+  * [支援OData查詢語法](api-te-se/odata.md)
+* [API資料使用注意事項](api-zi-liao-shi-yong-zhu-yi-shi-xiang/README.md)
+  * [版本說明](api-zi-liao-shi-yong-zhu-yi-shi-xiang/version.md)
+  * [資料供應現況](api-zi-liao-shi-yong-zhu-yi-shi-xiang/supplystatus.md)
+  * [航空API資料使用注意事項](api-zi-liao-shi-yong-zhu-yi-shi-xiang/aviation.md)
+  * [公車API資料使用注意事項](api-zi-liao-shi-yong-zhu-yi-shi-xiang/bus.md)
+  * [雙鐵API資料使用注意事項](api-zi-liao-shi-yong-zhu-yi-shi-xiang/rail.md)
+  * [靜態異動檔API資料使用注意事項](api-zi-liao-shi-yong-zhu-yi-shi-xiang/variation.md)
 
