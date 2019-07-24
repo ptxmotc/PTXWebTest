@@ -35,5 +35,5 @@
 
 ## PTX API URI說明文件詳見連結請詳見以下連結
 
-[http://ptx.transportdata.tw/ptx/Download/API\_URI\_Convention文件\_v1.pdf](http://ptx.transportdata.tw/ptx/Download/API_URI_Convention文件_v1.pdf)
+[http://ptx.transportdata.tw/ptx/Download/API\_URI\_Convention文件\_v1.pdf](https://docs.google.com/viewer?url=https://github.com/ptxmotc/PTX_Web/blob/master/Swagger%E6%9C%8D%E5%8B%99%E8%AA%AA%E6%98%8E%E4%B8%8A%E5%82%B3%E5%8F%83%E8%80%83%E6%AA%94%E6%A1%88/API_URI_Convention%E6%96%87%E4%BB%B6_v1.pdf?raw=true)
 
