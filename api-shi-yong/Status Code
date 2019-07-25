@@ -1,0 +1,2 @@
+# HTTP Status Code顯示內容說明
+說明:本平臺原採用ticket認證授權機制，後配合API Management解決方案的導入，改採HMAC認證授權機制。
