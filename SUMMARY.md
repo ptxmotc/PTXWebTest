@@ -21,4 +21,5 @@
   * [公車API資料使用注意事項](api-zi-liao-shi-yong-zhu-yi-shi-xiang/bus.md)
   * [雙鐵API資料使用注意事項](api-zi-liao-shi-yong-zhu-yi-shi-xiang/rail.md)
   * [靜態異動檔API資料使用注意事項](api-zi-liao-shi-yong-zhu-yi-shi-xiang/variation.md)
+  * [健康狀態Health參數使用注意事項](api-zi-liao-shi-yong-zhu-yi-shi-xiang/jian-kang-zhuang-tai-health-can-shu-shi-yong-zhu-yi-shi-xiang.md)
 
