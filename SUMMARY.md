@@ -23,7 +23,6 @@
   * [靜態異動檔API資料使用注意事項](api-zi-liao-shi-yong-zhu-yi-shi-xiang/variation.md)
   * [健康狀態Health參數使用注意事項](api-zi-liao-shi-yong-zhu-yi-shi-xiang/health.md)
 * [API資料上架說明](api-zi-liao-shang-jia/README.md)
-  * [資料上架流程](api-zi-liao-shang-jia/zi-liao-shang-jia-liu-cheng.md)
   * [資料標準文件](api-zi-liao-shang-jia/zi-liao-biao-zhun-wen-jian.md)
   * [驗證工具說明](api-zi-liao-shang-jia/yan-zheng-gong-ju-shui-ming.md)
 
