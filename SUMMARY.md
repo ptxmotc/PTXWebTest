@@ -25,5 +25,6 @@
 * [API資料上架說明](api-zi-liao-shang-jia/README.md)
   * [資料標準文件](api-zi-liao-shang-jia/zi-liao-biao-zhun-wen-jian.md)
   * [驗證工具說明](api-zi-liao-shang-jia/yan-zheng-gong-ju-shui-ming.md)
-* [示範應用](shi-fan-ying-yong.md)
+* [示範應用](shi-fan-ying-yong/README.md)
+  * [示範應用上架](shi-fan-ying-yong/shi-fan-ying-yong-shang-jia.md)
 
