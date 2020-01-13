@@ -10,6 +10,7 @@
   * [授權驗證](api-shi-yong/hmac.md)
   * [線上教學](api-shi-yong/demo.md)
   * [範例程式](api-shi-yong/code.md)
+  * [資料流概念](api-shi-yong/zi-liao-liu-gai-nian.md)
   * [常見問題](api-shi-yong/faq.md)
 * [API特色](api-te-se/README.md)
   * [URI命名原則](api-te-se/uri.md)
