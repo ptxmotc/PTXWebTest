@@ -49,7 +49,9 @@
       </td>
     </tr>
   </tbody>
-</table>![\[&#x9010;&#x7B46;&#x66F4;&#x65B0;\]&#x8207;\[&#x6279;&#x6B21;&#x66F4;&#x65B0;\]&#x4E4B;N1&#x8CC7;&#x6599;&#x5DEE;&#x7570;](../.gitbook/assets/gitbookudp-yu-tcpv2.png)
+</table>
+
+![\[&#x9010;&#x7B46;&#x66F4;&#x65B0;\]&#x8207;\[&#x6279;&#x6B21;&#x66F4;&#x65B0;\]&#x4E4B;N1&#x8CC7;&#x6599;&#x5DEE;&#x7570;](../.gitbook/assets/gitbookudp-yu-tcpv2.png)
 
 ### \[逐筆更新\(UDP\)\]動態資料說明
 

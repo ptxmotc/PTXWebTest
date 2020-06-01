@@ -6,7 +6,7 @@
   * [註冊申請](hui-yuan-shen-qing/goregister.md)
   * [常見問題](hui-yuan-shen-qing/memberfaq.md)
 * [API使用](api-shi-yong/README.md)
-  * [資料服務說明文件](https://ptx.transportdata.tw/MOTC/Swagger/)
+  * [資料服務說明文件](https://ptx.transportdata.tw/MOTC/)
   * [授權驗證](api-shi-yong/hmac.md)
   * [線上教學](api-shi-yong/demo.md)
   * [範例程式](api-shi-yong/code.md)
