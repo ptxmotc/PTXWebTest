@@ -25,6 +25,6 @@
   * 超過單位時間（50 request/秒）能平行的請求數
 * HTTP Status Code 429：
   * API rate limit exceeded （超過當日呼叫上限次數）
-* APP ID及APP Key：不同層級的資料服務類型，會給予不同的ID/Key組合，例如:基礎資料服務\(L1\)與基礎加值服務\(L2\)會分別給予兩組不同的ID/Key組合詳請參考[資料服務查詢](https://ptx.transportdata.tw/PTX/Service)中的**API服務類型**，目前提供的資料服務多屬L1，L2之服務目前僅有場站空氣品質服務，後續會再進行擴充。
+* APP ID及APP Key：不同層級的資料服務類型，會給予不同的ID/Key組合。
 * 使用程式（如:C\#、Java、JavaScript等）取得資料時，請記得加入HTTP Header設定（Accept-Encoding: gzip, deflate），可有效減傳輸量。
 
