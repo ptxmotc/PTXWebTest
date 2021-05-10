@@ -32,4 +32,5 @@
   * [示範應用上架](shi-fan-ying-yong/shi-fan-ying-yong-shang-jia.md)
 * [虛擬點數](xu-ni-dian-shu/README.md)
   * [虛擬點數機制](xu-ni-dian-shu/xu-ni-dian-shu-ji-zhi.md)
+  * [常見問題](xu-ni-dian-shu/chang-jian-wen-ti.md)
 
