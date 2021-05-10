@@ -30,4 +30,5 @@
   * [驗證工具說明](api-zi-liao-shang-jia/yan-zheng-gong-ju-shui-ming.md)
 * [示範應用](shi-fan-ying-yong/README.md)
   * [示範應用上架](shi-fan-ying-yong/shi-fan-ying-yong-shang-jia.md)
+* [虛擬點數](xu-ni-dian-shu.md)
 
