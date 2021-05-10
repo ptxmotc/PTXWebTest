@@ -32,5 +32,4 @@
   * [示範應用上架](shi-fan-ying-yong/shi-fan-ying-yong-shang-jia.md)
 * [虛擬點數](xu-ni-dian-shu/README.md)
   * [虛擬點數機制](xu-ni-dian-shu/xu-ni-dian-shu-ji-zhi.md)
-  * [計算範例與週期](xu-ni-dian-shu/ji-suan-fan-li-yu-zhou-qi.md)
 
