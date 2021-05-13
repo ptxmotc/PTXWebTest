@@ -2,7 +2,7 @@
 
 ### 問題1: 目前虛擬點數中可看到哪些資訊? 
 
-您可於登入後，在會員專區之[服務呼叫統計](https://ptx.transportdata.tw/PTX/APIMember/APICallTime#tab1)查看動靜態資料數據傳輸量、呼叫次數以及虛擬點數之相關明細。
+您可於登入後，在[會員專區](https://ptx.transportdata.tw/PTX/APIMember/APICallTime)查看動靜態資料數據傳輸量、呼叫次數以及虛擬點數之相關明細。
 
 ### 問題2: 目前虛擬點數，是否涉及金流服務? 
 
