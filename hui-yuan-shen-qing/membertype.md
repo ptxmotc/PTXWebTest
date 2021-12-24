@@ -51,7 +51,7 @@
       <td style="text-align:left">API&#x547C;&#x53EB;&#x6B21;&#x6578;</td>
       <td style="text-align:left">&#x4E0A;&#x9650;20,000&#x6B21;/&#x6BCF;&#x65E5;</td>
       <td style="text-align:left">&#x4E0A;&#x9650;100,000&#x6B21;/&#x6BCF;&#x65E5;</td>
-      <td style="text-align:left">&#x4E0A;&#x9650;400,000&#x6B21;/&#x6BCF;&#x65E5;</td>
+      <td style="text-align:left">&#x4E0A;&#x9650;600,000&#x6B21;/&#x6BCF;&#x65E5;</td>
     </tr>
     <tr>
       <td style="text-align:left">&#x6703;&#x54E1;&#x6B0A;&#x76CA;</td>
